@@ -8,40 +8,7 @@ Graphviz dotfiles for etymology tree diagrams.
 
 ## Bunnicula
 
-![an etymological tree diagram showing:
-Ancient Greek, κύνικλος (kuniklos), rabbit
-with child
-Latin, cuniculus, rabbit, burrow, tunnel
-with children
-English, cuniculus, burrow, tunnel
-and
-Old French, connil, rabbit
-which in turn has the child
-English, cony, rabbit
-which has
-English, cunny, rabbit, slang for vagina
-which was displaced by taboo avoidance with
-English, bunny, rabbit
-coming from
-English, bun, squirrel, rabbit
-and
-English, -y, diminutive suffix
-
-another tree starts with:
-Ancient Greek, δράκων (drakon), dragon, serpent
-with the child
-Latin, draco, dragon, serpent
-
-another starts with:
-Proto-Indo-European, *-lós, diminutive suffix
-with child
-Latin, -ulus, diminutive suffix
-
-"draco" and "-ulus" have the child:
-English, Dracula, the name of a fictional vampire
-
-"bunny" and "Dracula" have the child:
-English, Bunnicula, the name of a fictional vampire rabbit](bunnicula.png)
+![an etymological tree diagram showing: Ancient Greek, κύνικλος (kuniklos), rabbit with child Latin, cuniculus, rabbit, burrow, tunnel with children English, cuniculus, burrow, tunnel and Old French, connil, rabbit which in turn has the child English, cony, rabbit which has English, cunny, rabbit, slang for vagina which was displaced by taboo avoidance with English, bunny, rabbit coming from English, bun, squirrel, rabbit and English, -y, diminutive suffix. Another tree starts with: Ancient Greek, δράκων (drakon), dragon, serpent with the child Latin, draco, dragon, serpent. Another starts with: Proto-Indo-European, *-lós, diminutive suffix with child Latin, -ulus, diminutive suffix. "draco" and "-ulus" have the child: English, Dracula, the name of a fictional vampire. "bunny" and "Dracula" have the child: English, Bunnicula, the name of a fictional vampire rabbit](bunnicula.png)
 
 ## Twix
 
