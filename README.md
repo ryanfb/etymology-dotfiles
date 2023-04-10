@@ -4,28 +4,7 @@ Graphviz dotfiles for etymology tree diagrams.
 
 ## Gargoyle / Gargle
 
-![An etymological tree showing:
-Ancient Greek "γαργαρίζω (gargarizdo)", onomatopoeic, to gargle
-as a root for
-Latin "gargarizo", to gargle
-as a root for
-Old French "gargole", throat, waterspout
-
-Also at the top level:
-Proto-Indo-European "*gʷel-", throat
-as a root for
-Latin "gula", throat, gullet
-as a root for
-Old French "goule", mouth
-also as a root for
-Old French "gargole", throat waterspout
-
-Old French "gargole" is then shown as a root for
-French "gargouiller", to gurgle, bubble
-
-which then has the descendents
-English "gargoyle", a grotesque figure with a spout
-English "gargle", to clear one's throat with liquid held in the back of the mouth](gargoyle-gargle.png)
+![An etymological tree showing: Ancient Greek "γαργαρίζω (gargarizdo)", onomatopoeic, to gargle as a root for Latin "gargarizo", to gargle as a root for Old French "gargole", throat, waterspout Also at the top level: Proto-Indo-European "*gʷel-", throat as a root for Latin "gula", throat, gullet as a root for Old French "goule", mouth also as a root for Old French "gargole", throat waterspout Old French "gargole" is then shown as a root for French "gargouiller", to gurgle, bubble which then has the descendents English "gargoyle", a grotesque figure with a spout English "gargle", to clear one's throat with liquid held in the back of the mouth](gargoyle-gargle.png)
 
 ## Bunnicula
 
