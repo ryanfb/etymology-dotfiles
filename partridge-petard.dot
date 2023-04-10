@@ -14,7 +14,7 @@ digraph partridgepetard {
 	furtijan [label=<Proto-West Germanic<br/><b>*furtijan</b><br/><i>to fart</i>>]
 	furzen [label=<German<br/><b>furzen</b><br/><i>to fart</i>>]
 			
-	perdeti [label=<Proto-Slavic<br/><b>pьzděti</b><br/><i>to fart loudly</i>>]
+	perdeti [label=<Proto-Slavic<br/><b>*pьrděti</b><br/><i>to fart loudly</i>>]
 	perdet [label=<Russian<br/><b>пердеть (perdet)</b><br/><i>to fart loudly</i>>]
 	
 	pesd [label=<Proto-Indo-European<br/><b>*pesd-</b><br/><i>to fart silently</i>>]
@@ -26,7 +26,7 @@ digraph partridgepetard {
 	# vist [label=<Middle High German<br/><b>vist</b><br/><i>a silent fart</i>>]
 	fist [label=<German<br/><b>Fist</b><br/><i>a silent fart</i>>]
 	
-	pezdeti [label=<Proto-Slavic<br/><b>pьzděti</b><br/><i>to fart silently</i>>]
+	pezdeti [label=<Proto-Slavic<br/><b>*pьzděti</b><br/><i>to fart silently</i>>]
 	bzdet [label=<Russian<br/><b>бздеть (bzdet)</b><br/><i>to fart silently</i>>]
 	
 	pet [label=<Old French<br/><b>pet</b><br/><i>a silent fart</i>>]
