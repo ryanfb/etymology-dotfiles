@@ -12,15 +12,11 @@ Graphviz dotfiles for etymology tree diagrams.
 
 ## Twix
 
-![an etymology diagram for "Twix", tracing on the left side to English "twin", Old English "twinn" (double), Proto-Germanic "*twīhnaz" (pair, twofold, double), Proto-Indo-European "*dwóh₁" (two).
-
-On the right side, it traces to UK English "bix" (informal for "biscuits"), English "biscuit", Old French "bescuit" (twice-cooked bread), from Latin "bis" (twice) + "coctus" (cooked), "bis" from Proto-Indo-European "*dwís" (twice), also from Proto-Indo-European "*dwóh₁" (two).](twix.png)
+![an etymology diagram for "Twix", tracing on the left side to English "twin", Old English "twinn" (double), Proto-Germanic "*twīhnaz" (pair, twofold, double), Proto-Indo-European "*dwóh₁" (two). On the right side, it traces to UK English "bix" (informal for "biscuits"), English "biscuit", Old French "bescuit" (twice-cooked bread), from Latin "bis" (twice) + "coctus" (cooked), "bis" from Proto-Indo-European "*dwís" (twice), also from Proto-Indo-European "*dwóh₁" (two).](twix.png)
 
 ## Triscuit
 
-![an etymology diagram for "Triscuit", tracing on the left side to English "electricity", from English "electric" + "-ity" (noun-forming suffix for adjectives), "electric" from Neo-Latin "electricus" (electric, of amber), from Latin "electrum" (amber) + "-icus" (adjective-forming suffix for nouns), from Ancient Greek "ἤλεκτρον (electron)" (amber).
-
-On the right side, it traces to UK English "bix" (informal for "biscuits"), English "biscuit", Old French "bescuit" (twice-cooked bread), from Latin "bis" (twice) + "coctus" (cooked), "bis" from Proto-Indo-European "*dwís" (twice), from Proto-Indo-European "*dwóh₁" (two).](triscuit.png)
+![an etymology diagram for "Triscuit", tracing on the left side to English "electricity", from English "electric" + "-ity" (noun-forming suffix for adjectives), "electric" from Neo-Latin "electricus" (electric, of amber), from Latin "electrum" (amber) + "-icus" (adjective-forming suffix for nouns), from Ancient Greek "ἤλεκτρον (electron)" (amber). On the right side, it traces to UK English "bix" (informal for "biscuits"), English "biscuit", Old French "bescuit" (twice-cooked bread), from Latin "bis" (twice) + "coctus" (cooked), "bis" from Proto-Indo-European "*dwís" (twice), from Proto-Indo-European "*dwóh₁" (two).](triscuit.png)
 
 ## LICENSE
 
