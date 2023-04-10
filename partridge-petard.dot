@@ -1,0 +1,63 @@
+digraph partridgepetard {
+	node [shape=plaintext];
+
+	perd [label=<Proto-Indo-European<br/><b>*perd-</b><br/><i>to fart loudly</i>>]
+	fertana [label=<Proto-Germanic<br/><b>fertaną</b><br/><i>to fart</i>>]
+	feortan [label=<Old English<br/><b>feortan</b><br/><i>to fart</i>>]
+	fart [label=<English<br/><b>fart</b><br/><i>to pass gas</i>>]
+	
+	perdomai [label=<Ancient Greek<br/><b>πέρδομαι (perdomai)</b><br/><i>to fart loudly</i>>]
+	perdiks [label=<Ancient Greek<br/><b>πέρδιξ (perdix)</b><br/><i>a partridge</i>>]
+	perdriz [label=<Old French<br/><b>perdriz</b><br/><i>a partridge</i>>]
+	partridge [label=<English<br/><b>partridge</b><br/><i>a bird in the genera Perdix</i>>]
+
+	furtijan [label=<Proto-West Germanic<br/><b>*furtijan</b><br/><i>to fart</i>>]
+	furzen [label=<German<br/><b>furzen</b><br/><i>to fart</i>>]
+			
+	perdeti [label=<Proto-Slavic<br/><b>pьzděti</b><br/><i>to fart loudly</i>>]
+	perdet [label=<Russian<br/><b>пердеть (perdet)</b><br/><i>to fart loudly</i>>]
+	
+	pesd [label=<Proto-Indo-European<br/><b>*pesd-</b><br/><i>to fart silently</i>>]
+	bdew [label=<Ancient Greek<br/><b>βδέω (bdeo)</b><br/><i>to fart silently</i>>]
+	pedo [label=<Latin<br/><b>pēdō</b><br/><i>to fart</i>>]
+	suppedo [label=<Latin<br/><b>suppēdō</b><br/><i>to fart silently</i>>]
+	
+	fistiz [label=<Proto-Germanic<br/><b>fistiz</b><br/><i>a silent fart</i>>]
+	# vist [label=<Middle High German<br/><b>vist</b><br/><i>a silent fart</i>>]
+	fist [label=<German<br/><b>Fist</b><br/><i>a silent fart</i>>]
+	
+	pezdeti [label=<Proto-Slavic<br/><b>pьzděti</b><br/><i>to fart silently</i>>]
+	bzdet [label=<Russian<br/><b>бздеть (bzdet)</b><br/><i>to fart silently</i>>]
+	
+	pet [label=<Old French<br/><b>pet</b><br/><i>a silent fart</i>>]
+	peter [label=<French<br/><b>péter</b><br/><i>to fart</i>>]
+	petard [label=<English<br/><b>petard</b><br/><i>an explosive device</i>>]
+	
+	perd -> fertana
+	fertana -> feortan
+	feortan -> fart
+	perd -> perdomai
+	perdomai -> perdiks
+	perdiks -> perdriz
+	perdriz -> partridge
+
+	perd -> furtijan
+	furtijan -> furzen
+		
+	perd -> perdeti
+	perdeti -> perdet
+	
+	pesd -> bdew
+	pesd -> pedo
+	pedo -> suppedo
+	
+	pesd -> pezdeti
+	pezdeti -> bzdet
+	
+	pesd -> fistiz
+	fistiz -> fist
+	
+	pedo -> pet
+	pet -> peter
+	peter -> petard
+}
