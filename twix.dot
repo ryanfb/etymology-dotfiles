@@ -1,0 +1,29 @@
+digraph twix {
+	node [shape=plaintext];
+
+	dwoh [label=<Proto-Indo-European<br/><b>*dwóh₁</b><br/><i>two</i>>]
+	twihnaz [label=<Proto-Germanic<br/><b>*twīhnaz</b><br/><i>pair, twofold, double</i>>]
+	twinn [label=<Old English<br/><b>twinn</b><br/><i>double</i>>]
+	twin [label=<English<br/><b>twin</b><br/><i>double, dual</i>>]
+	twix [label=<English<br/><b>Twix</b><br/><i>a popular chocolate bar that comes in a pair of twin biscuits</i>>]
+	
+	dwis [label=<Proto-Indo-European<br/><b>*dwís</b><br/><i>twice</i>>]
+	bis [label=<Latin<br/><b>bis</b><br/><i>twice</i>>]
+	coctus [label=<Latin<br/><b>coctus</b><br/><i>cooked</i>>]
+	bescuit [label=<Old French<br/><b>bescuit</b><br/><i>twice-cooked bread</i>>]
+	biscuit [label=<English<br/><b>biscuit</b><br/><i>cookie</i>>]
+	bix [label=<UK English<br/><b>bix</b><br/><i>(informal) biscuits</i>>]
+	
+	dwoh -> twihnaz;
+	twihnaz -> twinn;
+	twinn -> twin;
+	twin -> twix;
+	
+	dwoh -> dwis;
+	dwis -> bis;
+	bis -> bescuit;
+	coctus -> bescuit;
+	bescuit -> biscuit;
+	biscuit -> bix;
+	bix -> twix;
+}

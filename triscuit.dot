@@ -1,0 +1,34 @@
+digraph triscuit {
+	node [shape=plaintext];
+
+	elektron [label=<Ancient Greek<br/><b>ἤλεκτρον (electron)</b><br/><i>amber</i>>]
+	electrum [label=<Latin<br/><b>electrum</b><br/><i>amber</i>>]
+	icus [label=<Latin<br/><b>-icus</b><br/><i>adjective-forming suffix for nouns</i>>]
+	electricus [label=<Neo-Latin<br/><b>electricus</b><br/><i>electric, of amber</i>>]
+	electric [label=<English<br/><b>electric</b><br/><i>relating to, produced by, operated with, or utilising electricity</i>>]
+	ity [label=<English<br/><b>-ity</b><br/><i>noun-forming suffix for adjectives</i>>]
+	electricity [label=<English<br/><b>electricity</b><br/><i>a phenomenon caused by the distribution and movement of charged subatomic particles</i>>]
+	
+	dwoh [label=<Proto-Indo-European<br/><b>*dwóh₁</b><br/><i>two</i>>]
+	dwis [label=<Proto-Indo-European<br/><b>*dwís</b><br/><i>twice</i>>]
+	bis [label=<Latin<br/><b>bis</b><br/><i>twice</i>>]
+	coctus [label=<Latin<br/><b>coctus</b><br/><i>cooked</i>>]
+	bescuit [label=<Old French<br/><b>bescuit</b><br/><i>twice-cooked bread</i>>]
+	biscuit [label=<English<br/><b>biscuit</b><br/><i>cookie</i>>]
+	triscuit [label=<English<br/><b>Triscuit</b><br/><i>a brand of wholewheat cracker</i>>]
+	
+	elektron -> electrum;
+	electrum -> electricus;
+	icus -> electricus;
+	electricus -> electric;
+	electric -> electricity;
+	ity -> electricity;
+	electricity -> triscuit;
+	
+	dwoh -> dwis;
+	dwis -> bis;
+	bis -> bescuit;
+	coctus -> bescuit;
+	bescuit -> biscuit;
+	biscuit -> triscuit;
+}

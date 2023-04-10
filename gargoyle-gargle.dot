@@ -1,0 +1,24 @@
+digraph gargoylegargle {
+	node [shape=plaintext];
+
+	gargarizw [label=<Ancient Greek<br/><b>γαργαρίζω (gargarizdo)</b><br/>onomatopoeic, <i>to gargle</i>>];
+	gargarizo [label=<Latin<br/><b>gargarizo</b><br/><i>to gargle</i>>];
+	gargole [label=<Old French<br/><b>gargole</b><br/><i>throat, waterspout</i>>]
+	gargouiller [label=<French<br/><b>gargouiller</b><br/><i>to gurgle, bubble</i>>]
+	
+	gel [label=<Proto-Indo-European<br/><b>*gʷel-</b><br/><i>throat</i>>]
+	gula [label=<Latin<br/><b>gula</b><br/><i>throat, gullet</i>>]
+	goule [label=<Old French<br/><b>goule</b><br/><i>mouth</i>>]
+	
+	gargoyle [label=<English<br/><b>gargoyle</b><br/><i>a grotesque figure with a spout</i>>]
+	gargle [label=<English<br/><b>gargle</b><br/><i>to clear one's throat with liquid held in the back of the mouth</i>>]
+	
+	gargarizw -> gargarizo;
+	gargarizo -> gargole;
+	gargole -> gargouiller;
+	gargouiller -> gargoyle;
+	gargouiller -> gargle;
+	gel -> gula;
+	gula -> goule;
+	goule -> gargole;
+}

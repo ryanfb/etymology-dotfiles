@@ -1,0 +1,34 @@
+digraph bunnicula {
+	node [shape=plaintext];
+
+	kuniklos [label=<Ancient Greek<br/><b>κύνικλος (kuniklos)</b><br/><i>rabbit</i>>]
+	cuniculus [label=<Latin<br/><b>cuniculus</b><br/><i>rabbit, burrow, tunnel</i>>]
+	cuniculusen [label=<English<br/><b>cuniculus</b><br/><i>burrow, tunnel</i>>]
+	drakon [label=<Ancient Greek<br/><b>δράκων (drakon)</b><br/><i>dragon, serpent</i>>]
+	draco [label=<Latin<br/><b>draco</b><br/><i>dragon, serpent</i>>]
+	los [label=<Proto-Indo-European<br/><b>*-lós</b><br/>diminutive suffix>]
+	ulus [label=<Latin<br/><b>-ulus</b><br/>diminutive suffix>]
+	dracula [label=<English<br/><b>Dracula</b><br/><i>the name of a fictional vampire</i>>]
+	connil [label=<Old French<br/><b>connil</b><br/><i>rabbit</i>>]
+	cony [label=<English<br/><b>cony</b><br/><i>rabbit</i>>]
+	bunnicula [label=<English<br/><b>Bunnicula</b><br/><i>the name of a fictional vampire rabbit</i>>]
+	bunny [label=<English<br/><b>bunny</b><br/><i>rabbit</i>>]
+	cunny [label=<English<br/><b>cunny</b><br/><i>rabbit, slang for vagina</i>>]
+	bun [label=<English<br/><b>bun</b><br/><i>squirrel, rabbit</i>>]
+	y [label=<English<br/><b>-y</b><br/>diminutive suffix>]
+	
+	kuniklos -> cuniculus
+	cuniculus -> cuniculusen
+	cuniculus -> connil
+	connil -> cony
+	cony -> cunny
+	cunny -> bunny [style=dashed, color=grey, xlabel=<<i>displaced by taboo avoidance</i>>]
+	drakon -> draco
+	draco -> dracula
+	los -> ulus
+	ulus -> dracula
+	dracula -> bunnicula
+	bun -> bunny
+	bunny -> bunnicula
+	y -> bunny
+}
